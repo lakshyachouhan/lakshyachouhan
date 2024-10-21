@@ -24,17 +24,14 @@ I am a passionate software developer with a strong focus on data structures and 
 
 Here are some of my notable projects:
 
-1. **[Random Password Generator](https://github.com/lakshyachouhan/Random-Password-Generator)**: A JavaScript application that generates random passwords with customizable options.
-2. **[CODSOFT](https://github.com/lakshyachouhan/CODSOFT)**: An internship project that includes various tasks and features implemented in C++.
-3. **[Solved Questions](https://github.com/lakshyachouhan/Solved-Questions)**: A collection of LeetCode questions aimed at mastering coding interview concepts.
-4. **[Weather App](https://github.com/lakshyachouhan/Weather-App)**: A JavaScript application that fetches real-time weather data from an external API.
-5. **[Razorpay Clone](https://github.com/lakshyachouhan/Razorpay-Clone)**: A simple HTML project mimicking the Razorpay interface.
-6. **[Shopping Cart](https://github.com/lakshyachouhan/Shopping-Cart)**: A JavaScript project that allows users to add and remove items from a shopping cart.
+1. **[Random Password Generator](https://github.com/lakshyachouhan/Random-Password-Generator)**: A JavaScript application that generates random passwords with customizable options
+2. **[Weather App](https://github.com/lakshyachouhan/Weather-App)**: A JavaScript application that fetches real-time weather data from an external API.
+3. **[Razorpay Clone](https://github.com/lakshyachouhan/Razorpay-Clone)**: A simple HTML project mimicking the Razorpay interface.
+4. **[Shopping Cart](https://github.com/lakshyachouhan/Shopping-Cart)**: A JavaScript project that allows users to add and remove items from a shopping cart.
 
 ## 🤝 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter](https://twitter.com/yourprofile)
-- 📧 [Email](mailto:youremail@example.com)
+- 🌐 [LinkedIn]([https://www.linkedin.com/in/lakshya](https://linkedin.com/in/lakshya-chouhan-301898256))
+- 📧 [Email](mailto:ritikchouhan596@gmai.com)
 
 Feel free to reach out for collaborations or to discuss new ideas. I'm always open to connecting!
