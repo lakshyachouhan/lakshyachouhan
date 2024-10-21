@@ -31,7 +31,7 @@ Here are some of my notable projects:
 
 ## 🤝 Let's Connect
 
-- 🌐 [LinkedIn]([https://www.linkedin.com/in/lakshya](https://linkedin.com/in/lakshya-chouhan-301898256))
+- 🌐 [LinkedIn]([https://linkedin.com/in/lakshya-chouhan-301898256])
 - 📧 [Email](mailto:ritikchouhan596@gmai.com)
 
 Feel free to reach out for collaborations or to discuss new ideas. I'm always open to connecting!
