@@ -24,10 +24,34 @@ I am a passionate software developer with a strong focus on data structures and 
 
 Here are some of my notable projects:
 
-1. **[Random Password Generator](https://github.com/lakshyachouhan/Random-Password-Generator)**: A JavaScript application that generates random passwords with customizable options
-2. **[Weather App](https://github.com/lakshyachouhan/Weather-App)**: A JavaScript application that fetches real-time weather data from an external API.
-3. **[Razorpay Clone](https://github.com/lakshyachouhan/Razorpay-Clone)**: A simple HTML project mimicking the Razorpay interface.
-4. **[Shopping Cart](https://github.com/lakshyachouhan/Shopping-Cart)**: A JavaScript project that allows users to add and remove items from a shopping cart.
+1. **[OCD Detection using Machine Learning](https://github.com/lakshyachouhan/ocd)**  
+   - Developed ML models (Logistic Regression, XGBoost, TabNet) to detect OCD from behavioral datasets.  
+   - Achieved ~60% accuracy using TabNet with 5-fold stratified CV.  
+   - Engineered custom features from user behavior patterns.  
+   - Dataset anonymized and preprocessed from open mental health records.
+
+2. **[TechLearner - EdTech Platform](https://github.com/lakshyachouhan/techlearner)**  
+   - Built a full-stack MERN platform for course creation, video consumption, and ratings.  
+   - **Tech Stack**: React.js, TailwindCSS, Node.js, Express.js, MongoDB  
+   - Integrated secure payment using Razorpay APIs.  
+   - Enabled real-time learning analytics and dynamic dashboards.
+
+3. **[ABC Store](https://github.com/lakshyachouhan/abc)**  
+   - Full-stack e-commerce platform simulating an online store.  
+   - Features: product browsing, cart management, secure checkout.  
+   - Built using modern web technologies (React, Node.js, MongoDB, etc.).
+
+4. **[Random Password Generator](https://github.com/lakshyachouhan/Random-Password-Generator)**  
+   - JavaScript application that generates random passwords with customizable options.
+
+5. **[Weather App](https://github.com/lakshyachouhan/Weather-App)**  
+   - JavaScript application that fetches real-time weather data from an external API.
+
+6. **[Razorpay Clone](https://github.com/lakshyachouhan/Razorpay-Clone)**  
+   - Simple HTML/CSS/JS project mimicking the Razorpay landing page UI.
+
+7. **[Shopping Cart](https://github.com/lakshyachouhan/Shopping-Cart)**  
+   - JavaScript-based project for adding/removing items from a shopping cart dynamically.
 
 ## 🤝 Let's Connect
 
