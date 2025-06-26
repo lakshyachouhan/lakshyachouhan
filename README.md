@@ -30,12 +30,12 @@ Here are some of my notable projects:
    - Integrated secure payment using Razorpay APIs.  
    - Enabled real-time learning analytics and dynamic dashboards.
 
-2.  **[OCD Detection using Machine Learning](https://github.com/lakshyachouhan/ocd-ai-ml)**  
+2. **[OCD Detection using Machine Learning](https://github.com/lakshyachouhan/ocd-ai-ml)**  
    - Developed ML models (Logistic Regression, XGBoost, TabNet) to detect OCD from behavioral datasets.  
    - Achieved highest accuracy using TabNet with 5-fold stratified CV.  
    - Engineered custom features from user behavior patterns.  
    - Dataset anonymized and preprocessed from open mental health records.
-   - 
+   
 3. **[ABC Store](https://github.com/lakshyachouhan/Shopping-Cart)**  
    - Full-stack e-commerce platform simulating an online store.  
    - Features: product browsing, cart management, secure checkout.  
