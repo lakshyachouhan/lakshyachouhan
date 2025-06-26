@@ -24,19 +24,19 @@ I am a passionate software developer with a strong focus on data structures and 
 
 Here are some of my notable projects:
 
-1. **[OCD Detection using Machine Learning](https://github.com/lakshyachouhan/ocd)**  
-   - Developed ML models (Logistic Regression, XGBoost, TabNet) to detect OCD from behavioral datasets.  
-   - Achieved ~60% accuracy using TabNet with 5-fold stratified CV.  
-   - Engineered custom features from user behavior patterns.  
-   - Dataset anonymized and preprocessed from open mental health records.
-
-2. **[TechLearner - EdTech Platform](https://github.com/lakshyachouhan/techlearner)**  
+1.**[TechLearner - EdTech Platform](https://github.com/lakshyachouhan/TechLearner)**  
    - Built a full-stack MERN platform for course creation, video consumption, and ratings.  
    - **Tech Stack**: React.js, TailwindCSS, Node.js, Express.js, MongoDB  
    - Integrated secure payment using Razorpay APIs.  
    - Enabled real-time learning analytics and dynamic dashboards.
 
-3. **[ABC Store](https://github.com/lakshyachouhan/abc)**  
+2.  **[OCD Detection using Machine Learning](https://github.com/lakshyachouhan/ocd-ai-ml)**  
+   - Developed ML models (Logistic Regression, XGBoost, TabNet) to detect OCD from behavioral datasets.  
+   - Achieved highest accuracy using TabNet with 5-fold stratified CV.  
+   - Engineered custom features from user behavior patterns.  
+   - Dataset anonymized and preprocessed from open mental health records.
+   - 
+3. **[ABC Store](https://github.com/lakshyachouhan/Shopping-Cart)**  
    - Full-stack e-commerce platform simulating an online store.  
    - Features: product browsing, cart management, secure checkout.  
    - Built using modern web technologies (React, Node.js, MongoDB, etc.).
